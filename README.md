@@ -1,6 +1,6 @@
-**ghexercise**
-    Remove Duplicates
-     -----------------
+#ghexercise
+## Remove Duplicates
+>
      Please follow the below instructions exactly and carefully
 
      Deliverables:
@@ -35,10 +35,12 @@
 
      AbrCdlkzm
 * export to jar
------------------
-`$ mvn clean compile assembly:single`
+```
+$ mvn clean compile assembly:single
+```
 * run
------------------
-`$ java -jar ghexercise-1.0-SNAPSHOT-jar-with-dependencies.jar
+```
+$ java -jar ghexercise-1.0-SNAPSHOT-jar-with-dependencies.jar
   input: AbraCadABraAlakAzam
-  output: AbrCdlkzm`
+  output: AbrCdlkzm
+```
